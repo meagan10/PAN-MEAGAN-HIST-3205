@@ -23,3 +23,5 @@ Insert videos or images here.
 {% assign media = site.media_metadata | where_exp: "item", "item.name == '1848RevolutionsVideo'" %} {% include media.html pages=media %}
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Unifications'" %} {% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'DreyfusAffair'" %} {% include media.html pages=media %}
