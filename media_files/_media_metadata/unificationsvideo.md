@@ -2,7 +2,7 @@
 name: Unifications
 media_type: video
 
-_title: Italian and German Unification: Crash Course European History #27
+_title: Italian and German Unification: Crash Course European History 27
 description: 14 minute video explaining the unifications of Italy and Germany
 creator: CrashCourse
 _date: 2019
