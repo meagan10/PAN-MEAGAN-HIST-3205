@@ -20,6 +20,6 @@ Place your links here to websites that have information about your topic.
 
 Insert videos or images here.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == '1848RevolutionsVideo'" %} {% include media.html pages=media %}
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Unifications'" %} {% include media.html pages=media %}
