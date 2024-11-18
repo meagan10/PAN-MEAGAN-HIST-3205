@@ -8,6 +8,6 @@ creator: Anton von Werner
 _date: 1885
 source: Wikipedia
 
-_path: /media_files/images/Kaiserproklamation_am_18_Januar_1871.jpg
+_path: /media_files/images/1080px-Kaiserproklamation_am_18_Januar_1871.jpg
 layout: media_description
 ---
