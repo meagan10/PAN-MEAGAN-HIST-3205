@@ -26,3 +26,6 @@ Now analyze your historical subject. (1000 words). You can include images, video
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
 {% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'VálasztásiMenet'" %}
+{% include media.html pages=media %}
