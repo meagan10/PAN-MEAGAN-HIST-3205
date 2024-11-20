@@ -11,6 +11,29 @@ number: 2
 - Imperialism
 - Disintegration of Multi-Ethnic Empires/Revolts
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RhodesColossus'" %}
+{% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'VálasztásiMenet'" %}
+{% include media.html pages=media %}
+
+# Social Impacts
+
+*Main points:*
+- Education
+- Discrimination
+- Collectivism vs. Individualism
+
+# Cultural Impacts
+
+*Main points:*
+- National Identities
+- Unified Identities
+- Romantic Nationalism
+
 
 # Analysis
 
@@ -29,11 +52,4 @@ Now analyze your historical subject. (1000 words). You can include images, video
 
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RhodesColossus'" %}
-{% include media.html pages=media %}
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
-{% include media.html pages=media %}
-
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'VálasztásiMenet'" %}
-{% include media.html pages=media %}
