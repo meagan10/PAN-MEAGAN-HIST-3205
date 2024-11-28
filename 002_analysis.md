@@ -55,6 +55,10 @@ During the French Revolution, the revolting citizens used the tricolor flag to s
 
 There was also the introduction of national anthems, singing songs in support of and praising the nation. The French national anthem, *La Marseillaise* was the call to revolution during the French Revolution. It highlights ideas of fighting against tyranny and protecting the nation. It inspired a lot of patriotism from those that listen to it, commanding the listeners to rise up and fight for their country.
 
+(1) Hayes, Carlton J. H. “Advance of Nationalism in Europe from Napoleon I to Napoleon III, 1800-1870.” In *Nationalism*, 1st ed., 55–69. Routledge, 2016. https://doi.org/10.4324/9781315125084-6.
+(2) Judge, Ann. “3. France: ‘One State, One Nation, One Language?’” *Language and Nationalism in Europe*, Oxford University Press, 2002. 
+(3) Raymond, Bill. *A Butcher’s Tale.* Prahran Mechanics’ Institute Press, 2008. 
+
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'ChasseurInTheForest'" %}
 {% include media.html pages=media %}
 
