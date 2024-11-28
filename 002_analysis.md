@@ -53,7 +53,10 @@ This type of nationalism was also seen during the German unification, when peopl
   
 During the French Revolution, the revolting citizens used the tricolor flag to show their support. Before this, the royal government used complex flags with the coat of arms of the current ruler. The tricolor flag was simple, and stood for revolution and opposition against the royals. After Napoleon took power, he made the tricolor flag into the national flag. This symbol helped to inspire nationalism by reminding the citizens that it was their victory, as a people. It also created a positive association with the regime, because the flag embodied the ideals that they fought for. 
 
-There was also the introduction of national anthems, singing songs in support of and praising the nation. The French national anthem, *La Marseillaise* was the call to revolution during the French Revolution. It highlights ideas of fighting against tyranny and protecting the nation. It inspired a lot of patriotism from those that listen to it, commanding the listeners to rise up and fight for their country.  
+There was also the introduction of national anthems, singing songs in support of and praising the nation. The French national anthem, *La Marseillaise* was the call to revolution during the French Revolution. It highlights ideas of fighting against tyranny and protecting the nation. It inspired a lot of patriotism from those that listen to it, commanding the listeners to rise up and fight for their country.
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ChasseurInTheForest'" %}
+{% include media.html pages=media %}
 
 
 
