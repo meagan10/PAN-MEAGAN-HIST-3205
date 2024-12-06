@@ -5,7 +5,7 @@ number: 1
 ---
 # Introduction
 
-## Meagan Pan
+### *by Meagan Pan*
 
 Nationality is now one of the primary ways that people identify themselves. Along with this, the current geopolitical landscape is structured around ‘the nation’ as the arbiter of sovereignty—but this is a relatively new phenomenon. Nationalism and the concept of the nation-state first came into prominence in the nineteenth century. Nationalism originated from the French Revolution and then spread throughout Europe in the Napoleonic Era as Napoleon defeated and occupied lands in Western and Central Europe. Movements for liberation from French control gained a national character and contributed to national awakening for these peoples.[^1]
 
