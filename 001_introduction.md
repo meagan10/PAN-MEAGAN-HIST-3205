@@ -13,7 +13,7 @@ Initially, nationalism had ties to romanticism and liberalism and mainly attract
 
 The impact of nationalism also spread beyond the geopolitical stage, influencing culture and society in European states. National education systems were created to develop this concept of a national identity among the people, encapsulated in the quote from the Italian statesman Massimo d’Azeglio: “We have made Italy, now we must make Italians.”[^3] Over the course of the century, the focal point of nationalism shifted away from pure liberation and took on a more belligerent form as it called for increasing a nation’s military power and influence to compete with or overtake other nations.[^4] Due to this, one of the biggest transformative effects of nationalism in nineteenth-century Europe was its impact on Europe’s geopolitical structure and its setting up of tensions between states and peoples that escalate leading up to the First World War.
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'GermanNationalAssembly'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'FrankfurtNationalversammlung'" %}
 {% include media.html pages=media %}
 
 —
