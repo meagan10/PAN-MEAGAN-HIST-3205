@@ -23,7 +23,7 @@ Insert videos or images here.
 
 *Hungarian Declaration of Independence, April 14, 1849.*
 
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'HungarianDeclarationOfIndependence'" %} {% include media.html pages=media %}
 
 *Videos*
 
