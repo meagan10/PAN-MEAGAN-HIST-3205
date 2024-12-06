@@ -21,6 +21,12 @@ I copied this text from this [website](https://www.lipsum.com/feed/html)
 
 Insert videos or images here.
 
+*Hungarian Declaration of Independence, April 14, 1849.*
+
+
+
+*Videos*
+
 {% assign media = site.media_metadata | where_exp: "item", "item.name == '1848RevolutionsVideo'" %} {% include media.html pages=media %}
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Unifications'" %} {% include media.html pages=media %}
