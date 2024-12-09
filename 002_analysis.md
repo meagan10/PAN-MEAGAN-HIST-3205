@@ -5,11 +5,42 @@ number: 2
 ---
 
 # Political Effects
+### *by Jacqueline Beattie*
 
-*Main points:*
-- The Creation of Nation-States
-- Imperialism
-- Disintegration of Multi-Ethnic Empires/Revolts
+Nationalism influenced the policy implemented by states to maximize their power and self-determination.
+
+*The Creation of Nation-States*
+
+Nationalism in the 19th century had various political effects, shifting the structure of Europe and creating tensions among states. One of those political effects was the creation of nation-states. A nation-state is a state that has defined borders, centralized government, and shared national identity.[^1] Nationalism “justifies the building and maintenance of nation-states.”[^2] Nationalism not only made self-determination a desire, but also a necessity. 
+
+This is exemplified by the unification of Germany, which was executed by Otto von Bismarck. Bismarck “skillfully” employed nationalism because he realized that “German nationalism would provide the moral issue with which to justify a war against Austria.”[^3] A united Germany could only be achieved by joining the largest German state, Prussia, with a moral goal of national unity. Nationalism enabled Bismarck to declare “just” wars and unite all German people under a single goal, ultimately leading to the creation of a singular German state. Bismarck’s use of nationalism and his success in unification exemplify nationalism’s capability to contribute to the creation of nation-states. Additionally, German unification was something European states feared for a long time and consequently transformed the geo-political structure of Europe.
+
+Italy underwent a similar transformation as Italian nationalists and liberals sought to end foreign domination. Guiseppe Mazzini, a Republican Nationalist, attempted various insurrections to unify Italy in the 1850s. While ultimately Mazzini’s revolts were unsuccessful, the revolts laid the foundations and groundwork for future unification. Following through with the nationalist movement, the Kingdom of Sardinia assumed leadership and “proceeded to expand its boundaries until it had acquired virtually all the entire Italian peninsula,” resulting in a new regime.[^4] The new Kingdom of Italy was a highly centralized state and eliminated regional autonomy.[^5] The nationalist desire for unification and an independent and strong Italy led to its eventual creation as a nation-state, just as it did for Germany.
+
+Nationalism justified the desire for and creation of nation-states, rationalizing the means used to gain self-determination. The unification of Germany and Italy would change the geopolitical structure of Europe, and their consolidation of national power is seen as a rising tension leading to the First World War. 
+
+*Imperialism*
+
+Another political effect of nationalism is imperialism and empire-building. With nationalism, there was an increase in pride in one’s country and a desire to be the most powerful. One way power was measured was by the size of a nation’s empire and its imperial holdings. At the end of the 19th century, European nations scrambled to conquer and expand their authority, as seen in the scramble for Africa. 
+
+Nationalism encouraged imperialism by making imperial holdings a factor of security. Clemenceau, the French Prime Minister, worried about the future of the French nation and embraced imperialism because he “hoped that colonial manpower would protect French citizens against aggression.”[^6] There was an implementation of imperialism for the sake of national sovereignty; it was in the national interest and desperation to expand. 
+
+Britain similarly strived to promote their interests and increase its influence over Africa. Depicted in *The Rhodes Colossus*, Cecil Rhodes, a British Business magnate, stands over the continent of Africa holding a telegraph line.[^7] He planned to build a railway and telegraph line from Cape Town to Cairo, to connect the British colonies. This recognizable political cartoon is a pun on the Colossus of Rhodes. It alludes to the Scramble for Africa, conveying how European powers sought to expand their colonial power in Africa. Rhodes was a nationalist who sought British expansion to maintain its standing. Nationalism was the motivation behind Britain’s expansion and need to increase national strength, to be the most powerful. 
+
+Moreover, Kaiser Wilhelm II of Germany was a strong nationalist who promoted aggressive expansion and German pride through his policy of “Weltpolitik.” Nationalist sentiments inspired his goals of making Germany a world power. His famous quote, “We have fought for our place in the sun and have won it,” evokes this desire to be a hegemon. With his policies, military and colonial power were equated with national power.
+
+Nationalism influenced foreign policy by suggesting that imperialism was a necessary tool for being a European power, leading to competition for imperial holdings. Subsequently, this “scramble” for colonies increased tensions and rivalries between the European powers that culminated in the years before the First World War.
+
+*Disintegration of Multi-Ethnic Empires/Revolts*
+
+Similar to the influence behind the creation of nation-states, nationalism caused turmoil and disintegration of large multi-ethnic empires. Empires such as the Austrian Empire and the Ottoman Empire were composed of various ethnic groups, which already caused tensions. However, the desire for self-determination and nationalist movements in these empires led to revolt and disintegration.
+
+The Austrian Empire was composed of many different ethnicities and very little of it was actually German, which caused long-lasting tensions. Eventually, increasing nationalist movements made it impossible for no change to occur. The transition of the Austrian Empire to the Austro-Hungarian Empire is a prime example. The Hungarians revolted in 1848 and ultimately lost, but eventually gained autonomy in 1866.[^8] However, tensions only escalated for the various other ethnicities who received no gains, creating an atmosphere of conflict. A Hungarian nation-state “provoked nationalist counter-claims in the name of Romanian, Serbian, Croatian, Slovak, and Transylvanian Saxon nations.”[^9] The nationalist movements of various ethnicities caused internal conflicts that created disunity, and eventually the dissolution of multi-ethnic empires. 
+
+The Ottoman Empire, often referred to as "the sick man of Europe," had waning power. With the addition of a pan-Slavic movement in the Balkans and Balkan nationalism, we saw exacerbating conditions. Russia, the largest Slavic nation, was thought to have a “historical duty to liberate the rest of the Balkans people.”[^10] Conflict between Russia, the Ottomans, and Austria, arose from questions about who should control the Balkans. The nationalist desire for Pan-Slavism, and nationalist interests in Russia, contributed to competition among these powers which played out in the First World War, and ultimately led to the disintegration of the Ottoman and Austrian Empires. 
+
+Nationalism created national fervor that sparked revolts and revolutions for independence in multi-ethnic empires, creating tensions among different ethnic groups that were seen worsening before World War I as well.
+
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
 {% include media.html pages=media %}
