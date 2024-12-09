@@ -7,9 +7,12 @@ number: 2
 # Political Effects
 ### *by Jacqueline Beattie*
 
+
 Nationalism influenced the policy implemented by states to maximize their power and self-determination.
 
+
 *The Creation of Nation-States*
+
 
 Nationalism in the 19th century had various political effects, shifting the structure of Europe and creating tensions among states. One of those political effects was the creation of nation-states. A nation-state is a state that has defined borders, centralized government, and shared national identity.[^1] Nationalism “justifies the building and maintenance of nation-states.”[^2] Nationalism not only made self-determination a desire, but also a necessity. 
 
@@ -19,7 +22,9 @@ Italy underwent a similar transformation as Italian nationalists and liberals so
 
 Nationalism justified the desire for and creation of nation-states, rationalizing the means used to gain self-determination. The unification of Germany and Italy would change the geopolitical structure of Europe, and their consolidation of national power is seen as a rising tension leading to the First World War. 
 
+
 *Imperialism*
+
 
 Another political effect of nationalism is imperialism and empire-building. With nationalism, there was an increase in pride in one’s country and a desire to be the most powerful. One way power was measured was by the size of a nation’s empire and its imperial holdings. At the end of the 19th century, European nations scrambled to conquer and expand their authority, as seen in the scramble for Africa. 
 
@@ -31,7 +36,9 @@ Moreover, Kaiser Wilhelm II of Germany was a strong nationalist who promoted agg
 
 Nationalism influenced foreign policy by suggesting that imperialism was a necessary tool for being a European power, leading to competition for imperial holdings. Subsequently, this “scramble” for colonies increased tensions and rivalries between the European powers that culminated in the years before the First World War.
 
+
 *Disintegration of Multi-Ethnic Empires/Revolts*
+
 
 Similar to the influence behind the creation of nation-states, nationalism caused turmoil and disintegration of large multi-ethnic empires. Empires such as the Austrian Empire and the Ottoman Empire were composed of various ethnic groups, which already caused tensions. However, the desire for self-determination and nationalist movements in these empires led to revolt and disintegration.
 
