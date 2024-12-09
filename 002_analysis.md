@@ -63,7 +63,8 @@ Nationalism created national fervor that sparked revolts and revolutions for ind
 - Discrimination
 - Collectivism vs. Individualism
 
-# Cultural Impacts - Katherine Busbee
+# Cultural Impacts
+### *by Katherine Busbee*
 
 *National Identities*
 
