@@ -76,7 +76,7 @@ In France, there was also an effort to standardize their language. There were ma
 
 With nationalism came a sense of a strong unified national identity, as created by the state. These unified identities were then placed in the context of pre-existing tensions among ethnic and religious lines. As seen in The Butcher’s Tale,  (5) the citizens of the town came together to create a strong, unified force. But they did so against the Jewish community of the town. As nationalism created a unified identity, any friction from people outside the identity was treated to strong opposition. The situation builds into an “us versus them” scenario. Therefore, this unification was actually a unification by promoting a common enemy in exchange for a national identity. It is unification by division against the already marginalized and ostracized groups in a town, the reason for disliking them just changes to a nationalistic cause. 
 
-	This also feeds into scientific racism and ideas of social darwinism. There were many different attempts to distinguish people and races by the size of their head (phrenology), which were then interpreted into meaning that certain people or races were better than others, creating a social hierarchy based in pseudo-science.  (6)
+This also feeds into scientific racism and ideas of social darwinism. There were many different attempts to distinguish people and races by the size of their head (phrenology), which were then interpreted into meaning that certain people or races were better than others, creating a social hierarchy based in pseudo-science.  (6)
 
 *Romantic Nationalism*
 
