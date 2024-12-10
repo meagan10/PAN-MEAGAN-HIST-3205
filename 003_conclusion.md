@@ -12,5 +12,5 @@ In conclusion, nationalism was a defining force in shaping the political, social
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'LibertyLeadingthePeople'" %}
 {% include media.html pages=media %}
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'Kaiserproklamation'" %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'ThePactBetweenNations'" %}
 {% include media.html pages=media %}
