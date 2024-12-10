@@ -69,15 +69,13 @@ Turnbull, G. H. (1923). “Fichte on Education.” *The Monist*, 33, no. 2, 184�
 
 University of Westminster. (n.d.). *1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia*. JSTOR. https://www.jstor.org/stable/3879520?searchText=hungarian+revolution+in+austria&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dhungarian%2Brevolution%2Bin%2Baustria%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A01cc58010cd453d61984f2de4aee6ee5&seq=8
 
-University of Westminster. (n.d.). *9 The Balkan crisis of 1875-78 and Russia: between humanitarianism and pragmatism*. JSTOR. https://www.jstor.org/stable/j.ctt1mf71b8.14?searchText=panslavism&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dpanslavism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A9b73e69a165a9d99626ec51bb8c6caf0&seq=5
+University of Westminster. (n.d.). *The Balkan crisis of 1875-78 and Russia: between humanitarianism and pragmatism*. JSTOR. https://www.jstor.org/stable/j.ctt1mf71b8.14?searchText=panslavism&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dpanslavism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A9b73e69a165a9d99626ec51bb8c6caf0&seq=5
 
-University of Westminster. (n.d.). *Bismarck and German Nationalism*. JSTOR. https://www.jstor.org/stable/1845577?searchText=&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dthe%2Bunification%2Bof%2Bgermany%2Bbismarck%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&searchKey=&refreqid=fastly-default%3A1f8f891bf64c128331a3a1c0e79aa5bb&initiator=recommender&seq=4
+University of Westminster. (n.d.). *Bismarck and German Nationalism*. JSTOR. https://www.jstor.org/stable/1845577
 
-University of Westminster. (n.d.). *Chapter 10 Nationalism, Communication, Ideology*. JSTOR. https://www.jstor.org/stable/j.ctv12fw7t5.14?searchText=nationalism+in+the+19th+century&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dnationalism%2Bin%2Bthe%2B19th%2Bcentury%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Aa78ca3d24a87388552bef7c6392f1439&seq=1
+University of Westminster. (n.d.). *Chapter 10 Nationalism, Communication, Ideology*. JSTOR. https://www.jstor.org/stable/j.ctv12fw7t5.14
 
-University of Westminster. (n.d.). *Imperialism, Nationalism, Chauvinism*. JSTOR. https://www.jstor.org/stable/1404068?searchText=imperialism+and+nationalism&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dimperialism%2Band%2Bnationalism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Aaff687837f2dbef34344f1d236839f61&seq=3
-
-University of Westminster. (n.d.). *The Establishment of the Kingdom of Italy as a Unitary State: A Case Study in Regime Formation*. JSTOR. https://www.jstor.org/stable/3330127?searchText=&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ditalian%2Bunification%2Band%2Bnationalism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&searchKey=&refreqid=fastly-default%3A4ffdc552b6a368a108b9aed0ed1285f8&initiator=recommender&seq=1
+University of Westminster. (n.d.). *Imperialism, Nationalism, Chauvinism*. JSTOR. [https://www.jstor.org/stable/1404068](https://www.jstor.org/stable/1404068)
 
 Winks, Robin W., and Joan Neuberger. *Europe and the Making of Modernity, 1815-1914.* Oxford: Oxford University Press, 2005.
 
