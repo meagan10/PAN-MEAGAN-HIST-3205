@@ -34,7 +34,7 @@ Cimino, Guido and Renato Foschi. “Northerners versus Southerners: Italian Anth
 Do, Quoc-Anh, Roberto Galbiati, Benjamin Marx, and Miguel A. Ortiz Serrano. J'Accuse! Antisemitism and financial markets in the time of the Dreyfus Affair.” *Journal of Financial Economics* 154, (2024): 16. [https://doi.org/10.1016/j.jfineco.2024.103809](https://doi.org/10.1016/j.jfineco.2024.103809).
 
 Fuchs, Christian. “Nationalism, Communication, Ideology.” In *Communication and Capitalism: 
-A Critical Theory*, 15:235–58. University of Westminster Press, 2020. [https://doi.org/10.2307/j.ctv12fw7t5.14](https://doi.org/10.2307/j.ctv12fw7t5.14).
+A Critical Theory*, 235–58. University of Westminster Press, 2020. [https://doi.org/10.2307/j.ctv12fw7t5.14](https://doi.org/10.2307/j.ctv12fw7t5.14).
 
 Goodwin, Lecture 4.
 
@@ -66,16 +66,6 @@ Smith, Helmut Walser. *The Butcher’s Tale: Murder and Anti-Semitism in a Germa
 Tulchinsky, Theodore H. “Bismarck and the Long Road to Universal Health Coverage.” *Case Studies in Public Health*, (2018): 131-179. [https://doi.org/10.1016/B978-0-12-804571-8.00031-7](https://doi.org/10.1016/B978-0-12-804571-8.00031-7).
 
 Turnbull, G. H. (1923). “Fichte on Education.” *The Monist*, 33, no. 2, 184–201. [http://www.jstor.org/stable/27900944](http://www.jstor.org/stable/27900944).
-
-University of Westminster. (n.d.). *1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia*. JSTOR. [https://www.jstor.org/stable/3879520](https://www.jstor.org/stable/3879520).
-
-University of Westminster. (n.d.). *The Balkan crisis of 1875-78 and Russia: between humanitarianism and pragmatism*. JSTOR. [https://www.jstor.org/stable/j.ctt1mf71b8.14](https://www.jstor.org/stable/j.ctt1mf71b8.14).
-
-University of Westminster. (n.d.). *Bismarck and German Nationalism*. JSTOR. [https://www.jstor.org/stable/1845577](https://www.jstor.org/stable/1845577).
-
-University of Westminster. (n.d.). *Chapter 10 Nationalism, Communication, Ideology*. JSTOR. [https://www.jstor.org/stable/j.ctv12fw7t5.14](https://www.jstor.org/stable/j.ctv12fw7t5.14).
-
-University of Westminster. (n.d.). *Imperialism, Nationalism, Chauvinism*. JSTOR. [https://www.jstor.org/stable/1404068](https://www.jstor.org/stable/1404068).
 
 Winks, Robin W., and Joan Neuberger. *Europe and the Making of Modernity, 1815-1914.* Oxford: Oxford University Press, 2005.
 
