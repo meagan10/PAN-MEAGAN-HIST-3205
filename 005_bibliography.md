@@ -21,4 +21,65 @@ Library, C. U. (2017, April 14). *The Rhodes Colossus - striding from Cape Town 
 
 ## Secondary Sources
 
-You should have at least 5 secondary sources.
+Aaslestad, Katherine, and Karen Hagemann. “1806 and Its Aftermath: Revisiting the Period of the Napoleonic Wars in German Central European Historiography.” *Central European History* 39, no. 4 (2006): 547–79. https://www.jstor.org/stable/20457177. 
+
+Arendt, Hannah. “Imperialism, Nationalism, Chauvinism.” *The Review of Politics* 7, no. 4 
+(1945): 441–63. http://www.jstor.org/stable/1404068.
+
+Brubaker, Rogers, and Margit Feischmidt. “1848 in 1998: The Politics of Commemoration in 
+Hungary, Romania, and Slovakia.” *Comparative Studies in Society and History* 44, no. 4 (2002): 700–744. http://www.jstor.org/stable/3879520.
+
+Cimino, Guido and Renato Foschi. “Northerners versus Southerners: Italian Anthropology and Psychology Faced With the ‘Southern Question.’” *History of Psychology* 17, no. 4 (2014): 282–295. https://doi.org/10.1037/a0036547.
+
+Do, Quoc-Anh, Roberto Galbiati, Benjamin Marx, and Miguel A. Ortiz Serrano. J'Accuse! Antisemitism and financial markets in the time of the Dreyfus Affair.” *Journal of Financial Economics* 154, (2024): 16. https://doi.org/10.1016/j.jfineco.2024.103809.
+
+Fuchs, Christian. “Nationalism, Communication, Ideology.” In *Communication and Capitalism: 
+A Critical Theory*, 15:235–58. University of Westminster Press, 2020. https://doi.org/10.2307/j.ctv12fw7t5.14.
+
+Goodwin, Lecture 4.
+
+Goodwin, Lecture 7.
+
+Goodwin, Lecture 15.
+
+Goodwin, Lecture 17.
+
+Goodwin, Lecture 26.
+
+Hayes, Carlton J. H. “Advance of Nationalism in Europe from Napoleon I to Napoleon III, 1800-1870.” In *Nationalism*, 1st ed., 55–69. Routledge, 2016. https://doi.org/10.4324/9781315125084-6. 
+
+Heraclides, Alexis, and Ada Dialla. “The Balkan Crisis of 1875–78 and Russia: Between 
+Humanitarianism and Pragmatism.” In *Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent*, 169–96. Manchester University Press, 2015. https://doi.org/10.2307/j.ctt1mf71b8.14.
+
+Kamusella, T. D. I. (2001). “Language as an instrument of nationalism in Central Europe.” *Nations & Nationalism*, 7(2), 235. https://doi.org/10.1111/1469-8219.00014
+
+Kumar, Krishan. “Nation-States as Empires, Empires as Nation-States: Two Principles, One Practice?” *Theory and Society* 39, no. 2 (2010): 119-143. http://www.jstor.org/stable/40587550. 
+
+Pflanze, Otto. “Bismarck and German Nationalism.” *The American Historical Review* 60, no. 3 (1955): 548–66. https://doi.org/10.2307/1845577.
+
+Smith, Anthony. “‘The Land and Its People’: Reflections on Artistic Identification in an Age of Nations and Nationalism.” *Nations and Nationalism 19, no. 1 (2013): 87–106. https://doi.org/10.1111/j.1469-8129.2012.00551.x. 
+
+Smith, Daniel Scott. “The Making of the Modern State: Social Scientization and Education Legislation in the United Kingdom, 1800–1914.” *Archives Européennes de Sociologie. European Journal of Sociology*. 64, no. 3 (2023): 357–84. https://doi.org/10.1017/S0003975623000425.
+
+Smith, Helmut Walser. *The Butcher’s Tale: Murder and Anti-Semitism in a German Town*. New York: W.W. Norton & Company, 2002. 
+
+Tulchinsky, Theodore H. “Bismarck and the Long Road to Universal Health Coverage.” *Case Studies in Public Health*, (2018): 131-179. https://doi.org/10.1016/B978-0-12-804571-8.00031-7.
+
+Turnbull, G. H. (1923). “Fichte on Education.” *The Monist*, 33, no. 2, 184–201. http://www.jstor.org/stable/27900944
+
+University of Westminster. (n.d.). *1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia*. JSTOR. https://www.jstor.org/stable/3879520?searchText=hungarian+revolution+in+austria&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dhungarian%2Brevolution%2Bin%2Baustria%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A01cc58010cd453d61984f2de4aee6ee5&seq=8
+
+University of Westminster. (n.d.). *9 The Balkan crisis of 1875-78 and Russia: between humanitarianism and pragmatism*. JSTOR. https://www.jstor.org/stable/j.ctt1mf71b8.14?searchText=panslavism&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dpanslavism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A9b73e69a165a9d99626ec51bb8c6caf0&seq=5
+
+University of Westminster. (n.d.). *Bismarck and German Nationalism*. JSTOR. https://www.jstor.org/stable/1845577?searchText=&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dthe%2Bunification%2Bof%2Bgermany%2Bbismarck%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&searchKey=&refreqid=fastly-default%3A1f8f891bf64c128331a3a1c0e79aa5bb&initiator=recommender&seq=4
+
+University of Westminster. (n.d.). *Chapter 10 Nationalism, Communication, Ideology*. JSTOR. https://www.jstor.org/stable/j.ctv12fw7t5.14?searchText=nationalism+in+the+19th+century&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dnationalism%2Bin%2Bthe%2B19th%2Bcentury%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Aa78ca3d24a87388552bef7c6392f1439&seq=1
+
+University of Westminster. (n.d.). *Imperialism, Nationalism, Chauvinism*. JSTOR. https://www.jstor.org/stable/1404068?searchText=imperialism+and+nationalism&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dimperialism%2Band%2Bnationalism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3Aaff687837f2dbef34344f1d236839f61&seq=3
+
+University of Westminster. (n.d.). *The Establishment of the Kingdom of Italy as a Unitary State: A Case Study in Regime Formation*. JSTOR. https://www.jstor.org/stable/3330127?searchText=&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Ditalian%2Bunification%2Band%2Bnationalism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&searchKey=&refreqid=fastly-default%3A4ffdc552b6a368a108b9aed0ed1285f8&initiator=recommender&seq=1
+
+Winks, Robin W., and Joan Neuberger. *Europe and the Making of Modernity, 1815-1914.* Oxford: Oxford University Press, 2005.
+
+Zariski, Raphael. “The Establishment of the Kingdom of Italy as a Unitary State: A Case Study 
+in Regime Formation.” *Publius* 13, no. 4 (1983): 1–19. http://www.jstor.org/stable/3330127.
