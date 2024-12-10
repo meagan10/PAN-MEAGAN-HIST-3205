@@ -120,26 +120,6 @@ There was also the introduction of national anthems, singing songs in support of
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'ChasseurInTheForest'" %}
 {% include media.html pages=media %}
 
-
-# Analysis
-
-Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
-
-# Embedding a Single Image
-
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
-{% include media.html pages=media %}
-
-# Embedding a Single Video
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-
-{% include media.html pages=media %}
-
-# Linking to a PDF File
-
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
-
-
 [^1]: Goodwin, Lecture 17.
 [^2]: Christian Fuchs, “Nationalism, Communication, Ideology,” in *Communication and Capitalism: A Critical Theory*, (London: University of Westminster Press, 2020), 235, https://doi.org/10.2307/j.ctv12fw7t5.14.
 [^3]: Otto Pflanze, “Bismarck and German Nationalism,” *The American Historical Review* 60, no. 3 (1955): 551, https://doi.org/10.2307/1845577.
