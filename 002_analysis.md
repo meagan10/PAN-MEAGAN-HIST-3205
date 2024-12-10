@@ -55,11 +55,32 @@ Nationalism created national fervor that sparked revolts and revolutions for ind
 
 
 # Social Impacts
+### *by Samantha Baldwin*
 
-*Main points:*
-- Education
-- Discrimination
-- Collectivism vs. Individualism
+*Education*
+
+Nationalist ideology in 19th-century Europe coincided with the concept of a nation-state as the overlap between the political and cultural features that make a territory unified and whole. Education systems throughout Europe conformed to the belief that nation-states must share a common language, culture, and history. Some countries promoted mass education of national history and civic values in hopes that it would instill a sense of pride and belonging in citizens. For example, Prussia’s education system underwent a major evolution towards nationalist teachings after nationalists such as Johann Gottlieb Fichte called for reform, believing that educating students on nationalist beliefs would encourage their loyalty to a unified German nation state.
+
+One of the most influential German nationalist documents of the century was Fichte’s Addresses to the German Nation: a piece of literature which he wrote during the aftermath of German occupation by Napoleonic France. Fichte spent a large portion of his addresses outlining and defending an education system that would instill nationalist beliefs in German youths. He proposed a school curriculum that reflected ideals of German identity, culture, and patriotism, while also cultivating personal virtue and moral character to encourage students to think for themselves. Fichte’s writings reflect the mindset that willingness to surrender oneself to their community and nation-state must be given by an individual rather than demanded by those in power[^11]. This shift from oppression under Napoleon to voluntary social responsibility to Germany sought to intellectually bind students to their nation-state and each other.
+
+Additionally, both Prussia and Italy promoted their respective national languages of German and Italian through schooling, most notably in areas where an alternate dialect was spoken.[^12] While nationalism in education began as an optimistic shift towards national unity, over time, it came at the cost of stifling diversity and forcing assimilation on ethnic and cultural minorities.
+
+*Discrimination*
+
+Increased nationalism in the education system was not beneficial to all of a nation’s citizens, as this philosophy led to the intense pressure towards minorities to conform. This is evident through Prussia’s treatment of its Polish territories. Karl von Altenstein, who served as Prussia’s Minister of Education from 1817-1840, saw no issue with allowing Polish students to learn primarily in their mother tongue. However, following his death, the Prussian government increased pressure on these territories to conform to German language and ideals.[^13] Similar changes occurred during the Risorgimento, the Italian movement toward unification, when the Tuscan dialect became the standard language in schools across Italy. While Italian nationalists such as politician Giuseppe Mazzini championed major educational reforms to unify citizens, these efforts reinforced the idea that Southern dialects and cultures were inferior, to the extent where racism against southerners still permeates the social dynamics of Italy today.[^14]
+
+Nationalism-driven discrimination intensified throughout the century, particularly through the rise of social darwinism. This ideology, which argued that only the strongest or most fit groups could thrive in society, was used to justify extreme nationalism by promoting the idea of the inherent superiority of a dominant race. As national identity became increasingly tied to ethnic uniformity, anti-Semitic sentiment grew across Europe— this time, more centered around Jews as an ethnic race rather than a religion. Many believed that Jewish people were outsiders who plotted to overthrow the structure of society through influencing politics, media, and economics.[^15] 
+
+These beliefs were reflected in France during the Dreyfus Affair, in which Captain Alfred Dreyfus, a Jewish artillery officer, was wrongfully convicted of high treason for revealing French military secrets to Germany. This is just one case of how nationalist movements frequently scapegoated vulnerable minority groups to assert power over those they deemed obstacles to national unity. This event also highlighted the socioeconomic repercussions of discrimination within communities. A recent analysis of the French stock market throughout the controversy found that firms with Jewish board members lost value during the Dreyfus Affair.[^16] While some of these companies saw improved performance after Dreyfus was proven innocent, many investors were still hesitant, making recovery slow and arduous. Despite the accusations against Dreyfus being proven unfounded, the antisemitic beliefs they ignited persisted and would only escalate in years to come.
+
+*Collectivism vs. Individualism*
+
+In the early 19th-century, the Enlightenment brought on a wave of Romanticism and focus on individuality, spirituality, celebration of nature, and the human experience.[^17] Followers of this movement often rejected assimilation into modern society in favor of connecting with their inner selves and exercising free thought. However, the Napoleonic Era soon swept across Europe, increasing chaos and revolutionary instability. Following the restoration and official end of this era, many began to shift their beliefs towards Conservatism, valuing stability and collective identity over the individual empowerment of the Revolution.[^18]
+Social welfare programs throughout Germany improved social cohesion and loyalty from citizens, particularly the working class. Otto von Bismarck’s national health and accident insurance programs promoted nationalism by aiding the health of children who could one day become effective soldiers, workers, and overall citizens.[^19] These policies fostered unity and collectivism among Germans and served as a reminder of their roles in a broader nation that required their contribution.
+
+In all cases of developing nationalism throughout 19th-century Europe, movements required individuals to place value in collective identity over personal identity, whether that meant altering education systems, stifling cultural practices, or discriminating against those who did not fit the perceived national ideal. This demonstrates a significant departure from early Enlightenment ideals. Through cultural, economic, and political changes, the overarching message was clear: social assimilation was a unifier, and the success of one’s nation depended on their willingness to sacrifice their own ambitions and identities for the national cause.
+
+
 
 # Cultural Impacts
 ### *by Katherine Busbee*
@@ -123,5 +144,12 @@ Now analyze your historical subject. (1000 words). You can include images, video
 [^8]: Goodwin, Lecture 15.
 [^9]: Rogers Brubaker and Margit Feischmidt, “1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia,” *Comparative Studies in Society and History* 44, no. 4 (2002): 705, http://www.jstor.org/stable/3879520.
 [^10]: Alexis Heraclides and Ada Dialla, “The Balkan Crisis of 1875–78 and Russia: Between Humanitarianism and Pragmatism,” in *Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent*, (Manchester: Manchester University Press, 2015), 171, https://doi.org/10.2307/j.ctt1mf71b8.14.
-
-
+[^11]: Johann Gottlieb Fichte, *Addresses to the German Nation* (1806).
+[^12]: G.H. Turnbull, “Fichte on Education,” *The Monist* 33, no. 2 (1923): 184–201, http://www.jstor.org/stable/27900944.
+[^13]: T. D. I. Kamusella, “Language as an instrument of nationalism in Central Europe,” *Nations & Nationalism* 7, no. 2 (2001): 235, https://doi.org/10.1111/1469-8219.00014.
+[^14]: Guido Cimino and Renato Foschi, “Northerners versus Southerners: Italian Anthropology and Psychology Faced With the ‘Southern Question,’” *History of Psychology* 17, no. 4 (2014): 282–295, https://doi.org/10.1037/a0036547.
+[^15]: Goodwin, Lecture 26.
+[^16]: Quoc-Anh Do et al., “J'Accuse! Antisemitism and financial markets in the time of the Dreyfus Affair,” *Journal of Financial Economics* 154, (2024): 16, https://doi.org/10.1016/j.jfineco.2024.103809.
+[^17]: Goodwin, Lecture 4.
+[^18]: Goodwin, Lecture 7.
+[^19]: Theodore H. Tulchinsky, “Bismarck and the Long Road to Universal Health Coverage,” *Case Studies in Public Health*, (2018): 131-179, https://doi.org/10.1016/B978-0-12-804571-8.00031-7.
