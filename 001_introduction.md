@@ -19,4 +19,4 @@ The impact of nationalism also spread beyond the geopolitical stage, influencing
 [^1]: Katherine Aaslestad and Karen Hagemann, “1806 and Its Aftermath: Revisiting the Period of the Napoleonic Wars in German Central European Historiography,” *Central European History* 39, no. 4 (2006): 564-65, https://www.jstor.org/stable/20457177.
 [^2]: Robin W. Winks and Joan Neuberger, *Europe and the Making of Modernity, 1815-1914* (Oxford: Oxford University Press, 2005), 58.
 [^3]: Krishan Kumar, “Nation-States as Empires, Empires as Nation-States: Two Principles, One Practice?” *Theory and Society* 39, no. 2 (2010): 128, http://www.jstor.org/stable/40587550.
-[^4]: Winks and Neuberger, *Europe and the Making of Modernity*, 1815-1914, 286.
+[^4]: Winks and Neuberger, *Europe and the Making of Modernity, 1815-1914*, 286.
