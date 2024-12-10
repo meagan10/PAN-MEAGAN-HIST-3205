@@ -67,9 +67,9 @@ Tulchinsky, Theodore H. “Bismarck and the Long Road to Universal Health Covera
 
 Turnbull, G. H. (1923). “Fichte on Education.” *The Monist*, 33, no. 2, 184–201. http://www.jstor.org/stable/27900944
 
-University of Westminster. (n.d.). *1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia*. JSTOR. https://www.jstor.org/stable/3879520?searchText=hungarian+revolution+in+austria&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dhungarian%2Brevolution%2Bin%2Baustria%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A01cc58010cd453d61984f2de4aee6ee5&seq=8
+University of Westminster. (n.d.). *1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia*. JSTOR. https://www.jstor.org/stable/3879520
 
-University of Westminster. (n.d.). *The Balkan crisis of 1875-78 and Russia: between humanitarianism and pragmatism*. JSTOR. https://www.jstor.org/stable/j.ctt1mf71b8.14?searchText=panslavism&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dpanslavism%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A9b73e69a165a9d99626ec51bb8c6caf0&seq=5
+University of Westminster. (n.d.). *The Balkan crisis of 1875-78 and Russia: between humanitarianism and pragmatism*. JSTOR. https://www.jstor.org/stable/j.ctt1mf71b8.14
 
 University of Westminster. (n.d.). *Bismarck and German Nationalism*. JSTOR. https://www.jstor.org/stable/1845577
 
