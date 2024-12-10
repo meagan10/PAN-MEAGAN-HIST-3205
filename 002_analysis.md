@@ -51,8 +51,6 @@ Nationalism created national fervor that sparked revolts and revolutions for ind
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'VálasztásiMenet'" %}
 {% include media.html pages=media %}
 
-[^1]: Goodwin, Lecture 17.
-[^2]: ...
 
 
 
@@ -107,10 +105,23 @@ Now analyze your historical subject. (1000 words). You can include images, video
 
 # Embedding a Single Video
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
+
 {% include media.html pages=media %}
 
 # Linking to a PDF File
 
 [Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
+
+
+[^1]: Goodwin, Lecture 17.
+[^2]: Christian Fuchs, “Nationalism, Communication, Ideology,” in *Communication and Capitalism: A Critical Theory*, (London: University of Westminster Press, 2020), 235, https://doi.org/10.2307/j.ctv12fw7t5.14.
+[^3]: Otto Pflanze, “Bismarck and German Nationalism,” *The American Historical Review* 60, no. 3 (1955): 551, https://doi.org/10.2307/1845577.
+[^4]: Raphael Zariski, “The Establishment of the Kingdom of Italy as a Unitary State: A Case Study in Regime Formation,” *Publius* 13, no. 4 (1983): 1, http://www.jstor.org/stable/3330127.
+[^5]: Raphael Zariski, “The Establishment of the Kingdom of Italy as a Unitary State: A Case Study in Regime Formation,” *Publius* 13, no. 4 (1983): 1, http://www.jstor.org/stable/3330127.
+[^6]: Hannah Arendt, “Imperialism, Nationalism, Chauvinism,” *The Review of Politics* 7, no. 4 (1945): 442, http://www.jstor.org/stable/1404068.
+[^7]: C. U. Library (2017, April 14), *The Rhodes Colossus - striding from Cape Town to Cairo*, The Rhodes Colossus - Striding from Cape Town to Cairo: Persuasive Maps: PJ Mode Collection, https://digital.library.cornell.edu/catalog/ss:19343183
+[^8]: Goodwin, Lecture 15.
+[^9]: Rogers Brubaker and Margit Feischmidt, “1848 in 1998: The Politics of Commemoration in Hungary, Romania, and Slovakia,” *Comparative Studies in Society and History* 44, no. 4 (2002): 705, http://www.jstor.org/stable/3879520.
+[^10]: Alexis Heraclides and Ada Dialla, “The Balkan Crisis of 1875–78 and Russia: Between Humanitarianism and Pragmatism,” in *Humanitarian Intervention in the Long Nineteenth Century: Setting the Precedent*, (Manchester: Manchester University Press, 2015), 171, https://doi.org/10.2307/j.ctt1mf71b8.14.
 
 
