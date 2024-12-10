@@ -65,6 +65,9 @@ One of the most influential German nationalist documents of the century was Fich
 
 Additionally, both Prussia and Italy promoted their respective national languages of German and Italian through schooling, most notably in areas where an alternate dialect was spoken.[^12] While nationalism in education began as an optimistic shift towards national unity, over time, it came at the cost of stifling diversity and forcing assimilation on ethnic and cultural minorities.
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'AnItalianVillageSchool'" %}
+{% include media.html pages=media %}
+
 *Discrimination*
 
 Increased nationalism in the education system was not beneficial to all of a nation’s citizens, as this philosophy led to the intense pressure towards minorities to conform. This is evident through Prussia’s treatment of its Polish territories. Karl von Altenstein, who served as Prussia’s Minister of Education from 1817-1840, saw no issue with allowing Polish students to learn primarily in their mother tongue. However, following his death, the Prussian government increased pressure on these territories to conform to German language and ideals.[^13] Similar changes occurred during the Risorgimento, the Italian movement toward unification, when the Tuscan dialect became the standard language in schools across Italy. While Italian nationalists such as politician Giuseppe Mazzini championed major educational reforms to unify citizens, these efforts reinforced the idea that Southern dialects and cultures were inferior, to the extent where racism against southerners still permeates the social dynamics of Italy today.[^14]
@@ -72,6 +75,9 @@ Increased nationalism in the education system was not beneficial to all of a nat
 Nationalism-driven discrimination intensified throughout the century, particularly through the rise of social darwinism. This ideology, which argued that only the strongest or most fit groups could thrive in society, was used to justify extreme nationalism by promoting the idea of the inherent superiority of a dominant race. As national identity became increasingly tied to ethnic uniformity, anti-Semitic sentiment grew across Europe— this time, more centered around Jews as an ethnic race rather than a religion. Many believed that Jewish people were outsiders who plotted to overthrow the structure of society through influencing politics, media, and economics.[^15] 
 
 These beliefs were reflected in France during the Dreyfus Affair, in which Captain Alfred Dreyfus, a Jewish artillery officer, was wrongfully convicted of high treason for revealing French military secrets to Germany. This is just one case of how nationalist movements frequently scapegoated vulnerable minority groups to assert power over those they deemed obstacles to national unity. This event also highlighted the socioeconomic repercussions of discrimination within communities. A recent analysis of the French stock market throughout the controversy found that firms with Jewish board members lost value during the Dreyfus Affair.[^16] While some of these companies saw improved performance after Dreyfus was proven innocent, many investors were still hesitant, making recovery slow and arduous. Despite the accusations against Dreyfus being proven unfounded, the antisemitic beliefs they ignited persisted and would only escalate in years to come.
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'TheTrialofDreyfus'" %}
+{% include media.html pages=media %}
 
 *Collectivism vs. Individualism*
 
